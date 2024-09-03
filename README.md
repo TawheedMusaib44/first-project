@@ -1,2 +1,5 @@
+# Minor Project
+This project was made using JavaScript, CSS, HTML
 
-# This project was created by Tawheed Musaib
+# Author
+Tawheed Musaib Fafoo
